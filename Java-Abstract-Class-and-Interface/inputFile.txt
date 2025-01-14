@@ -1,0 +1,22 @@
+Manager
+Store A
+Mohammad
+15.0
+40.0
+25.0
+50000.0
+500000.0
+SalesAssociate
+Store B
+Amadeus
+10.0
+30.0
+20.0
+0.15
+Cashier
+Store C
+Andika
+9.0
+20.0
+15.0
+2000

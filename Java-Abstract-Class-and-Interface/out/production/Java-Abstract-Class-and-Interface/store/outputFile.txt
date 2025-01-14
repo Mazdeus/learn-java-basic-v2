@@ -1,0 +1,39 @@
+******************************************************
+Number of employees working as MANAGER are: 1
+******************************************************
+1. Manager Details:
+Store Details: Store A
+Employee Name: John Doe
+Base Pay: $15.0
+Number of Hours worked: 40.0hrs
+Payment Rate per hour: $25.0/hr
+Total Sales in store: $500000.0
+Sales done: $50000.0
+Percentage of sales done: 10.00%
+Gross Payment: $1167.3
+Remaining store revenue: $407391.1125
+******************************************************
+Number of employees working as SALES ASSOCIATES are: 1
+******************************************************
+Store Details: Store A
+Employee Name: Jane Smith
+Base Pay: $10.0
+Number of Hours worked: 30.0hrs
+Payment Rate per hour: $20.0/hr
+Sales Rate: 15.0%
+Total commission: $0.0
+Gross Payment: $610.0
+******************************************************
+Number of employees working as CASHIERS are: 1
+******************************************************
+1. Cashier Details:
+Store Details: Store A
+Employee Name: Michael Johnson
+Base Pay: $9.0
+Number of Hours worked: 20.0hrs
+Payment Rate per hour: $15.0/hr
+Number of Transactions: 2000
+
+Gross Payment: $800.0
+Is Michael Johnson eligible for promotion? Yes, he/she is eligible
+
